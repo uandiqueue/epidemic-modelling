@@ -5,5 +5,5 @@ This repository contains the final mini project for the NUS course SP2273: Worki
 Our project leverages a dynamic agent-based approach, modeling interactions and transmission dynamics to mimic real-world epidemic spread. This framework can serve as a foundation for further analysis and visualization of disease propagation under various conditions. Through Pythonic methods, we applied interdisciplinary scientific and computational principles to create a tool with potential applications in public health research.
 
 ### Authors
-Jayden \
-Boyu
+Boyu \
+Jayden
